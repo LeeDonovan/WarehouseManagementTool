@@ -128,3 +128,24 @@ User Story 2: As a warehouse manager, I should know when where the items are shi
 
 Scenario: A customer's order went through and is happy to have ordered items. The warehouse manager should have access to the item purchased and amount, when it was purchased, and the address of the customer. The data is abled to be queried efficiently.
 ```
+```gherkin
+User Story #1:
+
+Software Engineer
+
+A software engineer is working on the backend of the company's website to make sure it can hold up a load of users flowing in and out. The engineer must also make sure that the data is accurate and easy to find, so the users don't get frustrated on what they are looking for.
+
+Scenario 1.1
+
+Software Engineer Manager notifies Software engineer that there is a slow down on the website due to the high usage of users searching at the same time. Software engineer must use the Elastic APM API that automatically surfaces attributes of data sets that are correlated with high latency or erroneous transactions. This way the website can run smoothly without any lag in search.
+
+User Story #2:
+
+Software Engineer Manager
+
+A software engineer manager is constantly checking the servers and making sure there isn't any crazy traffic on the website where the server can lag because the website is supposed to be real-time and no delay when customers need something.
+
+Scenario 2.1
+
+Software engineer manager checks the server and sees that there is a lot of traffic on the website. Checks and sees that there is a delay in updates and ask a software engineer to go and fix up the delay. While the software engineer gets to work the manager goes ahead and checks the website to make sure there aren't any problems left to deal with.
+```
